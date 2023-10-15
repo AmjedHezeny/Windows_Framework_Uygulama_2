@@ -1,4 +1,4 @@
-# C# ComboBox ve Timer Kullanımı ⏰🔄🖥️
+# Windows Forms ComboBox ve Timer Kullanımı ⏰🔄🖥️
 
 * 1.) ComboBox:
   
